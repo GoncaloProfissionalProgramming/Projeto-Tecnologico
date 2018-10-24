@@ -1,0 +1,2 @@
+﻿DBCC CHECKIDENT ('Estatísticas', RESEED, 0)
+GO

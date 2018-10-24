@@ -1,0 +1,2 @@
+﻿DBCC CHECKIDENT ('Resultados', RESEED, 0)
+GO

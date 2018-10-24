@@ -1,0 +1,2 @@
+﻿DBCC CHECKIDENT ('DatasJogos', RESEED, 0)
+GO

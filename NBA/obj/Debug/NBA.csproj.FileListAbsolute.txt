@@ -1,0 +1,331 @@
+E:\PSIBEIROS\NBA\NBA\bin\Debug\NBA.exe.config
+E:\PSIBEIROS\NBA\NBA\obj\Debug\NBA.Home.resources
+E:\PSIBEIROS\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+E:\PSIBEIROS\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache
+E:\PSIBEIROS\NBA\NBA\bin\Debug\NBA.exe
+E:\PSIBEIROS\NBA\NBA\bin\Debug\NBA.pdb
+E:\PSIBEIROS\NBA\NBA\obj\Debug\NBA.exe
+E:\PSIBEIROS\NBA\NBA\obj\Debug\NBA.pdb
+E:\PSIBEIROS\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+E:\PSIBEIROS\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+E:\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe.config
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.exe
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.pdb
+E:\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe
+E:\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.pdb
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache
+F:\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe.config
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.exe
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.pdb
+F:\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe
+F:\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.pdb
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarTreinador.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarTreinador.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Login.resources
+D:\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe.config
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.exe
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.pdb
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe.config
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.exe
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.pdb
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.pdb
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Bulls.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.Clippers.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Grizzlies.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Kingz.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Nets.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Nuggets.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Pistons.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Raptors.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Timberwolves.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Login.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.OptionAdmin.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Pelicans.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarTreinador.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Rockets.resources
+C:\Users\111560\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Login.resources
+C:\Users\111142\Downloads\PT\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe.config
+C:\Users\111142\Downloads\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.exe
+C:\Users\111142\Downloads\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.pdb
+U:\PT\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe.config
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.exe
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.pdb
+U:\PT\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe
+U:\PT\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.pdb
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.ers.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.Bucks.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Celtics.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Bulls.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.Cavaliers.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.Clippers.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Grizzlies.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.hawks.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.heat.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.Hornets.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.jazz.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Kingz.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.Knicks.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.Lakers.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.Magic.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.mavericks.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Nets.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Nuggets.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.Pacers.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.philadelphia_ers.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Pistons.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Raptors.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.Spurs.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.Suns.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.thunder.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas1.Timberwolves.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.trailblazzers.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.wizards.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\WindowsFormsApplication4.Home.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Login.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.OptionAdmin.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Pelicans.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Registar_Estatisticas.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarResultados.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarTreinador.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Rockets.resources
+U:\PT\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarResultados.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Plantel.resources
+U:\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe.config
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.exe
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Login.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Plantel.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarResultados.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarTreinador.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache
+U:\a\NBA\NBA\bin\Debug\NBA.exe.config
+U:\a\NBA\NBA\obj\Debug\NBA.exe
+U:\a\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.Bucks.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Celtics.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas1.Bulls.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.Cavaliers.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.Clippers.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Grizzlies.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.hawks.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.heat.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.Hornets.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.jazz.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas1.Kingz.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.Knicks.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.Lakers.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.Magic.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.mavericks.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas1.Nets.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas1.Nuggets.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.Pacers.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.philadelphia_ers.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas1.Pistons.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas1.Raptors.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.Spurs.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.Suns.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.thunder.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas1.Timberwolves.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.trailblazzers.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Estatisticas.wizards.resources
+U:\a\NBA\NBA\obj\Debug\WindowsFormsApplication4.Home.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Login.resources
+U:\a\NBA\NBA\obj\Debug\NBA.OptionAdmin.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Pelicans.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Plantel.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Registar_Estatisticas.resources
+U:\a\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+U:\a\NBA\NBA\obj\Debug\NBA.RegistarResultados.resources
+U:\a\NBA\NBA\obj\Debug\NBA.RegistarTreinador.resources
+U:\a\NBA\NBA\obj\Debug\NBA.Rockets.resources
+U:\a\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Login.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Plantel.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarResultados.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarTreinador.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache
+D:\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe
+D:\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.pdb
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe.config
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.exe
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Login.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Plantel.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarResultados.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarTreinador.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache
+E:\PTFIX\NBA\NBA\bin\Debug\NBA.exe.config
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Treinador.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.pdb
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Treinador.resources
+U:\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe
+U:\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.pdb
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Treinador.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Home.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarDatasJogos.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Home.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarDatasJogos.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.HomeAdmin.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarEquipas.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarEstatisticas.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Resultados.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.DatasJogos.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Equipas.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.DatasJogos.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Equipas.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Home.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.HomeAdmin.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Plantel.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarDatasJogos.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarEquipas.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarEstatisticas.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarResultados.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Resultados.resources
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Treinador.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.pdb
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.pdb
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.DatasJogos.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Equipas.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Home.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.HomeAdmin.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarDatasJogos.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarEquipas.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarEstatisticas.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Resultados.resources
+C:\Users\111142\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Treinador.resources
+E:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+C:\Users\111560\Desktop\NBA\NBA\bin\Debug\NBA.exe.config
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.exe
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.pdb
+C:\Users\111560\Desktop\NBA\NBA\bin\Debug\NBA.exe
+C:\Users\111560\Desktop\NBA\NBA\bin\Debug\NBA.pdb
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.DatasJogos.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.Equipas.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.Estatisticas.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.Home.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.HomeAdmin.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.Login.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.Plantel.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.RegistarDatasJogos.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.RegistarEquipas.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.RegistarEstatisticas.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.RegistarResultados.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.RegistarTreinador.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.Resultados.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.Treinador.resources
+C:\Users\111560\Desktop\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.DatasJogos.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Equipas.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.HomeAdmin.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarEquipas.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarEstatisticas.resources
+D:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Resultados.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe.config
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.exe
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.pdb
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.exe
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\bin\Debug\NBA.pdb
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.DatasJogos.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Equipas.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Home.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.HomeAdmin.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Login.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Plantel.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarDatasJogos.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarEquipas.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarEstatisticas.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarResultados.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarTreinador.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Resultados.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Treinador.resources
+C:\Users\alunoamd\Desktop\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.DatasJogos.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Equipas.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Estatisticas.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Home.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.HomeAdmin.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarDatasJogos.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarEquipas.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.RegistarEstatisticas.resources
+U:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.Resultados.resources
+E:\NBA\NBA\bin\Debug\NBA.exe.config
+E:\NBA\NBA\obj\Debug\NBA.exe
+E:\NBA\NBA\obj\Debug\NBA.pdb
+E:\NBA\NBA\bin\Debug\NBA.exe
+E:\NBA\NBA\bin\Debug\NBA.pdb
+E:\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+E:\NBA\NBA\obj\Debug\NBA.DatasJogos.resources
+E:\NBA\NBA\obj\Debug\NBA.Equipas.resources
+E:\NBA\NBA\obj\Debug\NBA.Estatisticas.resources
+E:\NBA\NBA\obj\Debug\NBA.Home.resources
+E:\NBA\NBA\obj\Debug\NBA.HomeAdmin.resources
+E:\NBA\NBA\obj\Debug\NBA.Login.resources
+E:\NBA\NBA\obj\Debug\NBA.Plantel.resources
+E:\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+E:\NBA\NBA\obj\Debug\NBA.RegistarDatasJogos.resources
+E:\NBA\NBA\obj\Debug\NBA.RegistarEquipas.resources
+E:\NBA\NBA\obj\Debug\NBA.RegistarEstatisticas.resources
+E:\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+E:\NBA\NBA\obj\Debug\NBA.RegistarResultados.resources
+E:\NBA\NBA\obj\Debug\NBA.RegistarTreinador.resources
+E:\NBA\NBA\obj\Debug\NBA.Resultados.resources
+E:\NBA\NBA\obj\Debug\NBA.Treinador.resources
+E:\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache
+F:\Projeto Tecnologico\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+C:\Users\gonca\Documents\NBA\NBA\bin\Debug\NBA.exe.config
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.exe
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.pdb
+C:\Users\gonca\Documents\NBA\NBA\bin\Debug\NBA.exe
+C:\Users\gonca\Documents\NBA\NBA\bin\Debug\NBA.pdb
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.csprojResolveAssemblyReference.cache
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.DatasJogos.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.Equipas.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.Estatisticas.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.Home.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.HomeAdmin.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.Login.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.Plantel.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.Properties.Resources.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.RegistarDatasJogos.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.RegistarEquipas.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.RegistarEstatisticas.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.RegistarJogador.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.RegistarResultados.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.RegistarTreinador.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.Resultados.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.Treinador.resources
+C:\Users\gonca\Documents\NBA\NBA\obj\Debug\NBA.csproj.GenerateResource.Cache

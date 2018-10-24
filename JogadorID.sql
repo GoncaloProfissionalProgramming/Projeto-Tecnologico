@@ -1,0 +1,2 @@
+﻿DBCC CHECKIDENT ('Jogadores', RESEED, 0)
+GO

@@ -1,0 +1,2 @@
+﻿DBCC CHECKIDENT ('Treinador', RESEED, 0)
+GO
